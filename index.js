@@ -21,5 +21,4 @@ function sayHiToGrandma(string) {
   return "I love you, too.";
   console.log(string)
   return string.toUpperCase()
->>>>>>> 8b493285390bdb64d97a3201cba3f57c7d7e03c5
 }
